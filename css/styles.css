@@ -114,7 +114,8 @@ img {
   margin-right: 50px;
 }
 .link.contact {
-  display: block;
+  display: flex;
+  align-items: center;
   padding: 32px 0;
 }
 .logo {
